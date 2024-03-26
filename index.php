@@ -8,7 +8,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <title>EGERTON UNIVERSITY.</title>
+    <title>KABARAK UNIVERSITY.</title>
     <!-- Bootstrap core CSS -->
 
     <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -72,7 +72,7 @@
             <div id="login" class="animate form">
                 <section class="login_content">
                     <form action="" method="post">
-                        <h1>EGERTON.</h1>
+                        <h1>KABARAK</h1>
                         <div>
                             <input type="text" class="form-control" name="username" placeholder="Username" autofocus='autofocus' required />
                         </div>
@@ -88,7 +88,7 @@
                             <div class="clearfix"></div>
                             <br />
                             <div>
-                                <h1><i class="fa fa-university" style="font-size: 30px;"></i>EGERTON UNIVERSITY.</h1>
+                                <h1><i class="fa fa-university" style="font-size: 30px;"></i>KABARAK UNIVERSITY.</h1>
 
                                 <p>© <?php echo date('Y'); ?> <i class="fa fa-book"></i> Library Management System</p>
                             </div>
